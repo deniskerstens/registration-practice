@@ -1,0 +1,28 @@
+body {
+    background-color: #2a2a2a;
+    color: #fafafa;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    min-width: 800px;
+    max-width: 1200px;
+    width: 80%;
+    background-color: #3c3c3c;
+    border-radius: 15px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    background-color: #2a2a2a;
+    border-radius: 10px;
+    padding: 4px;
+}
